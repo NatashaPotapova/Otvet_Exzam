@@ -1,0 +1,7 @@
+C:\Users\Natasha\source\repos\Otvet_Exzamen\Otvet_Exzamen\bin\Debug\Otvet_Exzamen.exe.config
+C:\Users\Natasha\source\repos\Otvet_Exzamen\Otvet_Exzamen\bin\Debug\Otvet_Exzamen.exe
+C:\Users\Natasha\source\repos\Otvet_Exzamen\Otvet_Exzamen\bin\Debug\Otvet_Exzamen.pdb
+C:\Users\Natasha\source\repos\Otvet_Exzamen\Otvet_Exzamen\obj\Debug\Otvet_Exzamen.csprojAssemblyReference.cache
+C:\Users\Natasha\source\repos\Otvet_Exzamen\Otvet_Exzamen\obj\Debug\Otvet_Exzamen.csproj.CoreCompileInputs.cache
+C:\Users\Natasha\source\repos\Otvet_Exzamen\Otvet_Exzamen\obj\Debug\Otvet_Exzamen.exe
+C:\Users\Natasha\source\repos\Otvet_Exzamen\Otvet_Exzamen\obj\Debug\Otvet_Exzamen.pdb
